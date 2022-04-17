@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="accent_material_dark">@color/material_deep_teal_200</color>
+
+    <color name="accent_material_light">@color/material_deep_teal_500</color>
+
+    <color name="background_floating_material_dark">@color/material_grey_800</color>
+
+    <color name="background_floating_material_light">@android:color/white</color>
+
+    <color name="background_material_dark">@color/material_grey_850</color>
+
+    <color name="background_material_light">@color/material_grey_50</color>
+
+    <color name="blue_btn_bg_color">#aedef4</color>
+
+    <color name="warning_stroke_color">#f8bb86</color>
+
+    <color name="blue_btn_bg_pressed_color">#96bfd2</color>
+
+    <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
+
+    <color name="bright_foreground_disabled_material_light">#80000000</color>
+
+    <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
+
+    <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
+
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+
+    <color name="bright_foreground_material_light">@android:color/black</color>
+
+    <color name="button_material_dark">#ff5a595b</color>
+
+    <color name="button_material_light">#ffd6d7d7</color>
+
+    <color name="button_text_color">#ffffff</color>
+
+    <color name="cardview_dark_background">#ff424242</color>
+
+    <color name="cardview_light_background">#ffffffff</color>
+
+    <color name="cardview_shadow_end_color">#03000000</color>
+
+    <color name="cardview_shadow_start_color">#37000000</color>
+
+    <color name="colorAccent">#fff</color>
+
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorBlackAlpha">#80000000</color>
+
+    <color name="colorBlackLight">#242729</color>
+
+    <color name="colorBlue">#ff6666cc</color>
+
+    <color name="colorBlueDark">#002f6c</color>
+
+    <color name="colorEmail">#5d5d67</color>
+
+    <color name="colorFacebook">#3b5999</color>
+
+    <color name="colorGoogle">#cf4332</color>
+
+    <color name="colorGrey">#e8e8e8</color>
+
+    <color name="colorGreyAlpha">#80e8e8e8</color>
+
+    <color name="colorGreyDark">#999</color>
+
+    <color name="colorGreyText">#616161</color>
+
+    <color name="colorPink">#f50057</color>
+
+    <color name="colorPinkDark">#c2185b</color>
+
+    <color name="colorPinkLight">#fce4ec</color>
+
+    <color name="colorPrimary">#fff</color>
+
+    <color name="colorPrimaryDark">#ad1457</color>
+
+    <color name="colorRed">#d81b60</color>
+
+    <color name="colorRedDark">#ac1900</color>
+
+    <color name="colorViolet">#8e24aa</color>
+
+
+    <color name="com_facebook_blue">#3b5998</color>
+
+    <color name="com_facebook_button_background_color">#415dae</color>
+
+    <color name="com_facebook_button_background_color_disabled">#bdc1c9</color>
+
+    <color name="com_facebook_button_background_color_focused">#fffffe</color>
+
+    <color name="com_facebook_button_background_color_focused_disabled">#84878c</color>
+
+    <color name="com_facebook_button_background_color_pressed">#2f477a</color>
+
+    <color name="com_facebook_button_background_color_selected">#7c8fc8</color>
+
+    <color name="com_facebook_button_border_color_focused">#dedee6</color>
+
+    <color name="themeColor">#11CFC5</color>
+
+    <!--normal colors-->
+    <color name="darkTextColor">#020000</color>
+
+
+    <!--colors for light mode-->
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#11CFC5</color>
+    <color name="login_bk_color">#fff</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#11CFC5</color>
+
+    <color name="com_facebook_button_login_background_color">#4267b2</color>
+
+    <color name="com_facebook_button_login_silver_background_color">#f4f6f8</color>
+
+    <color name="com_facebook_button_login_silver_background_color_pressed">#e9eaf0</color>
+
+    <color name="com_facebook_device_auth_text">#90949c</color>
+
+    <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
+
+    <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
+
+    <color name="com_facebook_likeview_text_color">#6a7180</color>
+
+    <color name="com_smart_login_code">#3c6499</color>
+
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+
+    <color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
+
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+
+    <color name="common_google_signin_btn_text_light_disabled">#1f000000</color>
+
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+
+    <color name="common_google_signin_btn_text_light_pressed">#de000000</color>
+
+    <color name="custom_float_bg">#f27474</color>
+
+    <color name="default_circle_indicator_fill_color">#ffffffff</color>
+
+    <color name="default_circle_indicator_page_color">#00000000</color>
+
+    <color name="default_circle_indicator_stroke_color">#ffdddddd</color>
+
+    <color name="default_indicator_color_selected">#eeee</color>
+
+    <color name="default_indicator_color_unselected">#66eeeeee</color>
+
+    <color name="design_bottom_navigation_shadow_color">#14000000</color>
+
+    <color name="design_default_color_primary">#3f51b5</color>
+
+    <color name="design_default_color_primary_dark">#303f9f</color>
+
+    <color name="design_fab_shadow_end_color">@android:color/transparent</color>
+
+    <color name="design_fab_shadow_mid_color">#14000000</color>
+
+    <color name="design_fab_shadow_start_color">#44000000</color>
+
+    <color name="design_fab_stroke_end_inner_color">#0a000000</color>
+
+    <color name="design_fab_stroke_end_outer_color">#0f000000</color>
+
+    <color name="design_fab_stroke_top_inner_color">#1affffff</color>
+
+    <color name="design_fab_stroke_top_outer_color">#2effffff</color>
+
+    <color name="design_snackbar_background_color">#323232</color>
+
+    <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
+
+    <color name="dim_foreground_disabled_material_light">#80323232</color>
+
+    <color name="dim_foreground_material_dark">#ffbebebe</color>
+
+    <color name="dim_foreground_material_light">#ff323232</color>
+
+    <color name="error_color_material_dark">#ff7043</color>
+
+    <color name="error_color_material_light">#ff5722</color>
+
+    <color name="error_stroke_color">#f27474</color>
+
+    <color name="float_transparent">#00000000</color>
+
+    <color name="foreground_material_dark">@android:color/white</color>
+
+    <color name="foreground_material_light">@android:color/black</color>
+
+    <color name="gray_btn_bg_color">#d0d0d0</color>
+
+    <color name="gray_btn_bg_pressed_color">#b6b6b6</color>
+
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+
+    <color name="highlighted_text_material_light">#66009688</color>
+
+    <color name="main_blue_color">#2469df</color>
+
+    <color name="main_blue_stroke_color">#205ec7</color>
+
+    <color name="main_cyan_color">#05d9f7</color>
+
+    <color name="main_cyan_stroke_color">#05c7e2</color>
+
+    <color name="main_disabled_color">#838383</color>
+
+    <color name="main_disabled_stroke_color">#707070</color>
+
+    <color name="main_green_color">#6bd505</color>
+
+    <color name="main_green_stroke_color">#60bf04</color>
+
+    <color name="main_orange_color">#f77805</color>
+
+    <color name="main_orange_light_color">#f7b90d</color>
+
+    <color name="main_orange_light_stroke_color">#e4ab0c</color>
+
+    <color name="main_orange_stroke_color">#e66f04</color>
+
+    <color name="material_blue_grey_80">#ff37474f</color>
+
+    <color name="material_blue_grey_800">#ff37474f</color>
+
+    <color name="material_blue_grey_90">#ff263238</color>
+
+    <color name="material_blue_grey_900">#ff263238</color>
+
+    <color name="material_blue_grey_95">#ff21272b</color>
+
+    <color name="material_blue_grey_950">#ff21272b</color>
+
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+
+    <color name="material_deep_teal_200">#ff80cbc4</color>
+
+    <color name="material_deep_teal_50">#ff009688</color>
+
+    <color name="material_deep_teal_500">#ff009688</color>
+
+    <color name="material_grey_100">#fff5f5f5</color>
+
+    <color name="material_grey_300">#ffe0e0e0</color>
+
+    <color name="material_grey_50">#fffafafa</color>
+
+    <color name="material_grey_600">#ff757575</color>
+
+    <color name="material_grey_800">#ff424242</color>
+
+    <color name="material_grey_850">#ff303030</color>
+
+    <color name="material_grey_900">#ff212121</color>
+
+    <color name="message_color">#797979</color>
+
+    <color name="message_color_dark">#fff</color>
+
+    <color name="mtrl_btn_bg_color_disabled">#1f000000</color>
+
+    <color name="mtrl_btn_text_color_disabled">#61000000</color>
+
+    <color name="mtrl_btn_transparent_bg_color">#00ffffff</color>
+
+    <color name="mtrl_scrim_color">#52000000</color>
+
+    <color name="mtrl_textinput_default_box_stroke_color">#6b000000</color>
+
+    <color name="mtrl_textinput_disabled_color">#1f000000</color>
+
+    <color name="mtrl_textinput_filled_box_default_background_color">#0a000000</color>
+
+    <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
+
+    <color name="notification_action_color_filter">#ffffffff</color>
+
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+
+    <color name="primary_dark_material_dark">@android:color/black</color>
+
+    <color name="primary_dark_material_light">@color/material_grey_600</color>
+
+    <color name="primary_material_dark">@color/material_grey_900</color>
+
+    <color name="primary_material_light">@color/material_grey_100</color>
+
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+
+    <color name="primary_text_default_material_light">#de000000</color>
+
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+
+    <color name="primary_text_disabled_material_light">#39000000</color>
+
+    <color name="red_btn_bg_color">#dd6b55</color>
+
+    <color name="red_btn_bg_pressed_color">#cd5b55</color>
+
+    <color name="rippelColor">#ffffff</color>
+
+    <color name="ripple_material_dark">#33ffffff</color>
+
+    <color name="ripple_material_light">#1f000000</color>
+
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+
+    <color name="secondary_text_default_material_light">#8a000000</color>
+
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+
+    <color name="secondary_text_disabled_material_light">#24000000</color>
+
+    <color name="success_stroke_color">#a5dc86</color>
+
+    <color name="sweet_dialog_bg_color">#ffffff</color>
+
+    <color name="sweet_dialog_bg_color_dark">#e6222222</color>
+
+    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+
+    <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
+
+    <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
+
+    <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+
+    <color name="text_color">#575757</color>
+
+    <color name="title_color">#575757</color>
+
+    <color name="title_color_dark">#fff</color>
+
+    <color name="tooltip_background_dark">#e6616161</color>
+
+    <color name="tooltip_background_light">#e6ffffff</color>
+
+    <color name="trans_success_stroke_color">#33a5dc86</color>
+
+    <color name="vpi__background_holo_dark">#ff000000</color>
+
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+
+    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+
+    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+</resources>
